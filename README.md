@@ -10,6 +10,6 @@ This repository tracks my daily progress in learning Data Science and Machine Le
 - Stay consistent with GitHub commits.
 
 ## Progress Log
-- **Day 1:** Repo created 🎉
-  Learn about variables, to print simple message
-  [python_basics.py](python_basics.py)
+- **Day 1:** Repo created 🎉<br>
+  Learn about variables, to print simple message<br>
+  Link of the File : [python_basics.py](python_basics.py)
