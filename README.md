@@ -12,4 +12,5 @@ This repository tracks my daily progress in learning Data Science and Machine Le
 ## Progress Log
 - **Day 1:** Repo created 🎉<br>
   Learn about variables, to print simple message<br>
-  Link of the File : [python_basics.py](python_basics.py)
+  Link of the File : [python_basics.py](python_basics.py)<br>
+  Open in Colab : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YourUsername/Rahul_Gogoi-180_Days_of_Data_Science/blob/main/Day1/python_basics.ipynb)
